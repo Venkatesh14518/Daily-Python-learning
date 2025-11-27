@@ -2,10 +2,10 @@
 # are .pdf files, and which aren't.
 # Call the method on each file string and print() Python's response.
 
-file_1 = "operators.pdf"            # file ending in .pdf
-file_2 = "snowfall.jpg"             # file ending in .jpg
-file_3 = "uncle-joes-wedding.doc"   # file ending in .doc
-file_4 = "invitation.pdf"           # file ending in .pdf
+file_1 = "operators.pdf"          # file ending in .pdf
+file_2 = "snowfall.jpg"           # file ending in .jpg
+file_3 = "uncle-joes-wedding.doc" # file ending in .doc
+file_4 = "invitation.pdf"         # file ending in .pdf
 
 # We use the string method .endswith(".pdf")
 # This checks whether the string finishes with the substring ".pdf"
